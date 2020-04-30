@@ -15,4 +15,11 @@ class Song
     @@all
   end
   
+  def genre
+    
+  end
+  
+  def artist
+    
+  end
 end
